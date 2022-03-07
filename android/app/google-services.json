@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1092378014157",
+    "project_id": "mahfoud-785b2",
+    "storage_bucket": "mahfoud-785b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092378014157:android:7c1e009abd97463d7dd484",
+        "android_client_info": {
+          "package_name": "com.mahfoudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092378014157-8mfjkc8jcua0mpl2rko8umja9lhjc681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxnk02da_jTQLEpseE9yZVM6hpVaD_3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092378014157-8mfjkc8jcua0mpl2rko8umja9lhjc681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092378014157:android:d83ce2e72950ade07dd484",
+        "android_client_info": {
+          "package_name": "com.mahfoudapp.adabontha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092378014157-8mfjkc8jcua0mpl2rko8umja9lhjc681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxnk02da_jTQLEpseE9yZVM6hpVaD_3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092378014157-8mfjkc8jcua0mpl2rko8umja9lhjc681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
